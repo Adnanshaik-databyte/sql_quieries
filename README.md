@@ -1,5 +1,5 @@
 # sql_quieries
-# 📊 Task 3: SQL for Data Analysis
+# 📊 T SQL for Data Analysis
 
 ## 🎯 Objective
 Use SQL to extract insights and perform data analysis on a relational database.
