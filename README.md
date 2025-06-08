@@ -88,6 +88,13 @@ The dataset contains simulated e-commerce data, such as:
 ### ✅ 4. Subqueries
 - Subquery in `WHERE`, `FROM`, or `SELECT` clause
 - Example: Orders above average order value
+- 
+![image](https://github.com/user-attachments/assets/829985dd-7c02-44ec-9f15-6968d5edca56)
+
+-Details of customers who purchased from "Electronics" category.
+
+![image](https://github.com/user-attachments/assets/13b6e64a-e3ca-4795-9e15-4a361abd5b14)
+
 
 
 ### ✅ 5. Views
