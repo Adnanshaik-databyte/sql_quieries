@@ -27,6 +27,7 @@ The dataset contains simulated e-commerce data, such as:
 
 ## 🚀 Tasks & Query Topics
 ![image](https://github.com/user-attachments/assets/9d48cff3-0ef4-4bf2-bf83-bb265405bfd2)
+
 ![image](https://github.com/user-attachments/assets/246444d2-78a1-4ca4-8056-3c2924b0b2c4)
 
 
@@ -34,6 +35,11 @@ The dataset contains simulated e-commerce data, such as:
 - `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
 - Filtering and sorting customer/order data
 ![image](https://github.com/user-attachments/assets/b00c12ba-48a1-4299-9cf0-73c990ed0c08)
+
+![image](https://github.com/user-attachments/assets/0019c209-f00a-440f-9b77-15edd11cf9e5)
+
+
+
 
 
 
