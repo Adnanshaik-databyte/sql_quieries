@@ -38,9 +38,7 @@ The dataset contains simulated e-commerce data, such as:
 
 ![image](https://github.com/user-attachments/assets/0019c209-f00a-440f-9b77-15edd11cf9e5)
 
-
-
-
+![image](https://github.com/user-attachments/assets/955f8b37-e47e-4489-8277-79aec8a284ea)
 
 
 
@@ -48,11 +46,42 @@ The dataset contains simulated e-commerce data, such as:
 - `GROUP BY`, `HAVING`
 - Aggregate functions: `SUM`, `AVG`, `MAX`, `MIN`, `COUNT`
 - Example: Total revenue per category
+- 
+![image](https://github.com/user-attachments/assets/e52fb45d-9520-4536-9c24-33c29eb05aaa)
+
+- Total discount amount availed per location:
+  
+  ![image](https://github.com/user-attachments/assets/4b516b1c-1ecb-4432-9b40-d18befd00456)
+  
+- query gives you a full summary by category, showing:
+  Total number of purchases (COUNT(*))
+  Total revenue (SUM)
+  Average revenue (AVG)
+  Maximum revenue (MAX)
+  Minimum revenue (MIN)
+  
+  ![image](https://github.com/user-attachments/assets/48e8159b-b766-42f7-962d-8a5cc74de540)
+
+
 
 
 ### ✅ 3. JOIN Operations
 - `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`
 - Example: Combine order and customer details
+  - New table Customers
+    
+![image](https://github.com/user-attachments/assets/c007d55a-d398-4f4a-a320-0d7bc5ad8ad2)
+
+-INNER JOIN : Returns only the records where CID exists in both tables:
+![image](https://github.com/user-attachments/assets/f8f7863e-621b-444e-b980-ae4e2527905f)
+
+-LEFT JOIN : Returns all records from ecommerce (orders), and matching rows from customers.
+![image](https://github.com/user-attachments/assets/e7c1c0f6-d89e-44ea-8ff9-2f44768ce4f1)
+
+-RIGHT JOIN : Shows all customers, even if they didn’t place an order 
+![image](https://github.com/user-attachments/assets/021920ff-03a1-4171-97e1-eb0c28748f21)
+
+
 
 
 
