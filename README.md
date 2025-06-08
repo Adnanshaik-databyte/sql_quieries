@@ -101,6 +101,17 @@ The dataset contains simulated e-commerce data, such as:
 - Create views for reusable analysis
 - Example: View for monthly sales summary
 
+![image](https://github.com/user-attachments/assets/605c4ea6-76a8-4df4-98e8-bd3478787cee)
+
+-Create view for Top Customers
+
+![image](https://github.com/user-attachments/assets/d7f8a3e0-f35b-4a42-b64c-f269b8332c3d)
+
+
+
+  
+
+
 
 
 ### ✅ 6. Indexing and Optimization
