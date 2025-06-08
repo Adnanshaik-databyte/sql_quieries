@@ -105,7 +105,8 @@ The dataset contains simulated e-commerce data, such as:
 
 -Create view for Top Customers
 
-![image](https://github.com/user-attachments/assets/d7f8a3e0-f35b-4a42-b64c-f269b8332c3d)
+![image](https://github.com/user-attachments/assets/f8fdcb4c-3b0a-49b7-974d-ea10be92ba95)
+
 
 
 
